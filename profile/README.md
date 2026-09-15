@@ -6,32 +6,32 @@ Ignition 8.3 modules, demonstrations, projects and labs. Every repo's README say
 
 Signed Ignition 8.3 gateway modules. Public ones are on the download portal.
 
-| Repo | | What it is |
+| Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
-| [ignition-modules-portal](https://github.com/Gaskony-Ignition/ignition-modules-portal) | `public` | Download portal for Gaskony Ignition modules - Camera Driver, Git Integration, Logix PLC Emulator, Python 3 IDE |
-| [module-camera-driver](https://github.com/Gaskony-Ignition/module-camera-driver) | `public` | ONVIF/RTSP/MJPEG multi-protocol camera driver module for Inductive Automation Ignition 8.3+ (independent, Apache-2.0) |
-| [module-git-integration](https://github.com/Gaskony-Ignition/module-git-integration) | `public` | Ignition 8.3 Git module — Gaskony fork of operametrix/ignition-git-module (Beerware), with gitignore management and Designer change indicators |
-| [module-plc-emulator](https://github.com/Gaskony-Ignition/module-plc-emulator) | `public` | Allen-Bradley Logix PLC emulator module for Inductive Automation Ignition 8.3+ (independent, Apache-2.0) |
-| [module-python3](https://github.com/Gaskony-Ignition/module-python3) | `public` | Python 3 (CPython) scripting integration module for Inductive Automation Ignition 8.3+ (independent, Apache-2.0) |
-| [module-script-ide](https://github.com/Gaskony-Ignition/module-script-ide) | `public` | Browser-based Jython IDE for Ignition 8.3 — completions from the live gateway, real Jython diagnostics, project-wide navigation and a Gateway script console. |
+| [ignition-modules-portal](https://github.com/Gaskony-Ignition/ignition-modules-portal) | `public` | Download page for the Gaskony Ignition modules, with install steps for each |
+| [module-camera-driver](https://github.com/Gaskony-Ignition/module-camera-driver) | `public` | Brings ONVIF, RTSP and MJPEG cameras into Ignition as devices, with live video and pan-tilt-zoom |
+| [module-git-integration](https://github.com/Gaskony-Ignition/module-git-integration) | `public` | Keeps an Ignition gateway's projects and settings in Git, with change markers in the Designer |
+| [module-plc-emulator](https://github.com/Gaskony-Ignition/module-plc-emulator) | `public` | Emulates an Allen-Bradley Logix PLC inside Ignition, so screens can be built and tested without hardware |
+| [module-python3](https://github.com/Gaskony-Ignition/module-python3) | `public` | Runs real Python 3 from Ignition scripts, with a browser IDE and package management |
+| [module-script-ide](https://github.com/Gaskony-Ignition/module-script-ide) | `public` | Browser IDE for Ignition's Jython scripts: completions, error checking and project-wide search, from the gateway |
 
 ## Demonstrations
 
 Importable Perspective projects that show a sector or a capability end to end.
 
-| Repo | | What it is |
+| Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
-| [demo-alarms](https://github.com/Gaskony-Ignition/demo-alarms) | `public` | Self-contained Ignition 8.3 alarm demonstration: import one project zip, press one button, and the gateway builds its own SQLite database, tags, alarms, journal history, rosters and shifts |
-| [demo-launchpad-au](https://github.com/Gaskony-Ignition/demo-launchpad-au) | `public` | Australian port of the Inductive Automation Launchpad OEE and KPI Exchange resources for Ignition 8.3 |
-| [demo-machine-hmi](https://github.com/Gaskony-Ignition/demo-machine-hmi) | `public` | Machine-level operator control in Ignition Perspective for a robotic palletising cell, including a live 3D view of the machine served from the project itself. Runs on Edge Panel or standard Ignition, with no database. |
+| [demo-alarms](https://github.com/Gaskony-Ignition/demo-alarms) | `public` | Alarm handling end to end: import one project, press one button, and get tags, alarms, history, rosters and shifts |
+| [demo-launchpad-au](https://github.com/Gaskony-Ignition/demo-launchpad-au) | `public` | Two demos adapted for Australia: OEE across seven production lines, and a plant KPI dashboard |
+| [demo-machine-hmi](https://github.com/Gaskony-Ignition/demo-machine-hmi) | `public` | Operator screens for a robotic palletising cell, including a live 3D view of the machine |
 
 ## Projects
 
 Applications, reference implementations and tooling.
 
-| Repo | | What it is |
+| Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
-| [project-themes](https://github.com/Gaskony-Ignition/project-themes) | `public` | Ten Perspective gateway themes for Ignition 8.3, with a one-button installer project and a theme switcher popup |
-| [project-toolbox](https://github.com/Gaskony-Ignition/project-toolbox) | `public` | Electron + Python desktop app for visual acceptance testing of Ignition gateways — playbooks, live execution streaming, stack and UDT builders |
+| [project-themes](https://github.com/Gaskony-Ignition/project-themes) | `public` | Ten ready-made looks for Perspective, installed with one button, with a switcher users can pick from |
+| [project-toolbox](https://github.com/Gaskony-Ignition/project-toolbox) | `public` | Desktop app for visual acceptance testing of Ignition gateways; being replaced by the Toolbox projects |
 
 Generated by `tools/org-profile.py` in the workspace repo; edit the repo descriptions, not this file.
