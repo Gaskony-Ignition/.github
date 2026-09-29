@@ -13,7 +13,7 @@ Signed Ignition 8.3 gateway modules. Public ones are on the download portal.
 | [module-git-integration](https://github.com/Gaskony-Ignition/module-git-integration) | `public` | Keeps an Ignition gateway's projects and settings in Git, with change markers in the Designer |
 | [module-plc-emulator](https://github.com/Gaskony-Ignition/module-plc-emulator) | `public` | Emulates an Allen-Bradley Logix PLC inside Ignition, so screens can be built and tested without hardware |
 | [module-python3](https://github.com/Gaskony-Ignition/module-python3) | `public` | Runs real Python 3 from Ignition scripts, with a browser IDE and package management |
-| [module-script-ide](https://github.com/Gaskony-Ignition/module-script-ide) | `public` | Browser IDE for Ignition's Jython scripts: completions, error checking and project-wide search, from the gateway |
+| [module-web-ide](https://github.com/Gaskony-Ignition/module-web-ide) | `public` | Browser IDE for Ignition's Jython scripts: completions, error checking and project-wide search, from the gateway |
 
 ## Demonstrations
 
