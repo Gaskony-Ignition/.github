@@ -22,6 +22,7 @@ Importable Perspective projects that show a sector or a capability end to end.
 | Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
 | [demo-alarms](https://github.com/Gaskony-Ignition/demo-alarms) | `public` | Alarm handling end to end: import one project, press one button, and get tags, alarms, history, rosters and shifts |
+| [demo-docker-stack](https://github.com/Gaskony-Ignition/demo-docker-stack) | `public` | One-command demo environment: a central gateway, two Edge gateways, MQTT and a database, with a guided console |
 | [demo-launchpad-au](https://github.com/Gaskony-Ignition/demo-launchpad-au) | `public` | Two demos adapted for Australia: OEE across seven production lines, and a plant KPI dashboard |
 | [demo-machine-hmi](https://github.com/Gaskony-Ignition/demo-machine-hmi) | `public` | Operator screens for a robotic palletising cell, including a live 3D view of the machine |
 
