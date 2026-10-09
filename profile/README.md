@@ -1,12 +1,12 @@
 # Gaskony-Ignition
 
-Ignition 8.3 modules, demonstrations, toolbox and labs. Every repo's README says why it exists, what it looks like, what it does and how to use it.
+Ignition modules, demonstrations, toolbox and labs. Every repo's README says why it exists, what it looks like, what it does and how to use it.
 
 > **Not Inductive Automation products, and not supported by Inductive Automation.** Everything here is independent work, largely built with AI tools and tested for one purpose on a limited subset of gateway versions and platforms. It exists to show what Ignition can do and to give you a starting point. Take the ideas; fork and review anything before it goes near production. Feedback is welcome through each repo's Issues tab; improvements are made where possible, but no support is guaranteed.
 
 ## Modules
 
-Signed Ignition 8.3 gateway modules. Public ones are on the download portal.
+Modules for Ignition.
 
 | Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
@@ -19,7 +19,7 @@ Signed Ignition 8.3 gateway modules. Public ones are on the download portal.
 
 ## Demonstrations
 
-Importable Perspective projects that show a sector or a capability end to end.
+Demonstrations of Ignition.
 
 | Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ Importable Perspective projects that show a sector or a capability end to end.
 
 ## Toolbox
 
-The Ignition-native Toolbox: one Perspective project per tool.
+Toolbox projects that run in Ignition.
 
 | Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
