@@ -23,9 +23,9 @@ Importable Perspective projects that show a sector or a capability end to end.
 
 | Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
+| [demo-3d-cad](https://github.com/Gaskony-Ignition/demo-3d-cad) | `public` | 3D and CAD in Perspective: a live 3D model of a robotic palletising cell, with STEP/CAD upload and alarms on the parts |
 | [demo-alarms](https://github.com/Gaskony-Ignition/demo-alarms) | `public` | Alarm handling end to end: import one project, press one button, and get tags, alarms, history, rosters and shifts |
 | [demo-launchpad-au](https://github.com/Gaskony-Ignition/demo-launchpad-au) | `public` | Two demos adapted for Australia: OEE across seven production lines, and a plant KPI dashboard |
-| [demo-machine-hmi](https://github.com/Gaskony-Ignition/demo-machine-hmi) | `public` | Operator screens for a robotic palletising cell, including a live 3D view of the machine |
 
 ## Toolbox
 
