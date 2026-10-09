@@ -2,7 +2,7 @@
 
 Ignition 8.3 modules, demonstrations, toolbox and projects. Every repo's README says why it exists, what it looks like, what it does and how to use it.
 
-> **Not Inductive Automation products, and not supported by Inductive Automation.** Everything here is independent work, largely built with AI tools and tested for one purpose on a limited subset of gateway versions and platforms. It exists to show what Ignition can do and to give you a starting point. Take the ideas; fork and review anything before it goes near production. Each repo's NOTICE.md says the same in full.
+> **Not Inductive Automation products, and not supported by Inductive Automation.** Everything here is independent work, largely built with AI tools and tested for one purpose on a limited subset of gateway versions and platforms. It exists to show what Ignition can do and to give you a starting point. Take the ideas; fork and review anything before it goes near production. Feedback is welcome through each repo's Issues tab; improvements are made where possible, but no support is guaranteed.
 
 ## Modules
 
