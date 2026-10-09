@@ -35,6 +35,7 @@ The Ignition-native Toolbox: one Perspective project per tool.
 | Repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is |
 | --- | --- | --- |
 | [toolbox-inspector](https://github.com/Gaskony-Ignition/toolbox-inspector) | `public` | Explains any Ignition 8.3 project on its gateway, page by page: broken references, scripts that run with no page open, security and performance risks |
+| [toolbox-theme-manager](https://github.com/Gaskony-Ignition/toolbox-theme-manager) | `public` | Install, remove, customise and import Perspective gateway themes from a page; imported theme zips are checked first. Ignition 8.3. |
 
 ## Projects
 
