@@ -2,6 +2,8 @@
 
 Ignition 8.3 modules, demonstrations, projects and labs. Every repo's README says why it exists, what it looks like, what it does and how to use it.
 
+> **Not Inductive Automation products, and not supported by Inductive Automation.** Everything here is personal work by one of its employees, largely built with AI tools and tested for one purpose on one gateway. It exists to show what Ignition can do and to give you a starting point. Take the ideas; fork and review anything before it goes near production. Each repo's NOTICE.md says the same in full.
+
 ## Modules
 
 Signed Ignition 8.3 gateway modules. Public ones are on the download portal.
