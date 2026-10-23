@@ -13,6 +13,7 @@ Modules for Ignition.
 | [ignition-modules-portal](https://github.com/Gaskony-Ignition/ignition-modules-portal) | `public` | Download page for the Gaskony Ignition modules, with install steps for each |
 | [module-camera-driver](https://github.com/Gaskony-Ignition/module-camera-driver) | `public` | Brings ONVIF, RTSP and MJPEG cameras into Ignition as devices, with live video and pan-tilt-zoom |
 | [module-git-integration](https://github.com/Gaskony-Ignition/module-git-integration) | `public` | Keeps an Ignition gateway's projects and settings in Git, with change markers in the Designer |
+| [module-mermaid](https://github.com/Gaskony-Ignition/module-mermaid) | `public` | Draws Mermaid diagrams in Perspective from a text definition you can edit in the Designer; a fork of Cognidata Mermaid Chart for Ignition 8.3 |
 | [module-plc-emulator](https://github.com/Gaskony-Ignition/module-plc-emulator) | `public` | Emulates an Allen-Bradley Logix PLC inside Ignition, so screens can be built and tested without hardware |
 | [module-python3](https://github.com/Gaskony-Ignition/module-python3) | `public` | Runs real Python 3 from Ignition scripts, with a browser IDE and package management |
 | [module-web-ide](https://github.com/Gaskony-Ignition/module-web-ide) | `public` | Browser IDE for Ignition's Jython scripts: completions, error checking and project-wide search, from the gateway |
