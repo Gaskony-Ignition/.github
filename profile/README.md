@@ -1,3 +1,5 @@
+<!-- Generated from each repo's name, description and topics; hand edits are overwritten. To change a row, edit that repo's description, name or topics instead. -->
+
 # Gaskony-Ignition
 
 Ignition modules, demonstrations and toolbox. Every repo's README says why it exists, what it looks like, what it does and how to use it.
